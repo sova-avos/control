@@ -1,0 +1,6 @@
+creds.py
+control.db
+__pycache__
+venv
+kontrol.xlsx
+jopSQLite.py
