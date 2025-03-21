@@ -4,3 +4,7 @@ __pycache__
 venv
 kontrol.xlsx
 jopSQLite.py
+MyConsoleApp/bin
+MyConsoleApp/obj
+MyConsoleApp/MyConsoleApp.csproj
+MyConsoleApp/MyConsoleApp.sln
